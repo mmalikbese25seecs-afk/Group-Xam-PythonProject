@@ -2,7 +2,7 @@
 
 def calculator_Salman():
 
-    print("\t\tWelcome to Smart Calculator")
+    print("\t\tWelcome to Smart Calculator") # Welcome
 
     while True:   #loops till user wants to wxit
       
@@ -10,7 +10,7 @@ def calculator_Salman():
        a=float(input("Please Enter the Number 1 : "))
        b=float(input("Please Enter the Number 2 : "))
 
-      except ValueError:      #The continue ensures to take values tillright value is entered
+      except ValueError:      #The continue ensures to take values till right value is entered
         print("Please enter Digits Only")
         continue
       
