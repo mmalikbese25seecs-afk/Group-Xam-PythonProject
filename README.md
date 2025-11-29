@@ -42,5 +42,7 @@ When the user guesses correctly, it displays the correct number and total attemp
 
 
 
-After each round, the user can choose to play again or exit
+After each round, the user can choose to play again or exit from the program
+
+
 
