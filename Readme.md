@@ -1,14 +1,14 @@
 # Group-Vxaxm-PythonProject
 
 ## Team Members
-- Salman (Team Leade)
-- Nouman
+- Muhammad Salman Ali Malik(Team Lead)
+- Muhammad Nouman Majeed
 
 ## Project Description
 This project contains two Python programs:
 1. Smart Calculator
 2. Number Guessing Game
-
+3. Using GitHub to collaborate on te project
 ### Samrt Calculator
 
 - Welcomes the user and asks for two numbers.
@@ -20,8 +20,18 @@ This project contains two Python programs:
   4. Division
   5. Perform all operations
   6. Exit
-- Performs the chosen operation and displays results.
-- Handles division by zero with an error message.
-- Shows an error for invalid menu choices.
-- Loops until the user selects Exit.
+
+### Guess The Number
+
+1. The computer randomly selects a number between 1 and 50.
+2. The user tries to guess the number, receiving feedback:
+3. "Too High" if the guess is higher than the number.
+4. "Too Low" if the guess is lower than the number.
+5. The game keeps track of the number of guesses.
+6. When the user guesses correctly, it displays the correct number and total attempts.
+7. After each round, the user can choose to play again or exit from the program
+
+### Program logic(Flowchart)
+![Flowchart](Flowchart.png)
+
 
